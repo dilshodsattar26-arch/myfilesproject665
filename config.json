@@ -1,0 +1,8 @@
+{
+    "name": "corehandler-service",
+    "version": "1.0.665",
+    "private": false,
+    "environment": "production",
+    "build_id": 937,
+    "allow_public_access": true
+}
